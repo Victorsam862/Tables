@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 2</title>
+    <link rel="stylesheet" href="css">
+    <link rel="shortcut icon" href="./Vortex logo.png" type="image/x-icon">
+</head>
+
+<body>
+    <p>victor samson</p>
+    <p>PASS-68377</p>
+  
+<h1>
+    <div class="one">skyline ict</div>
+
+    <div class="two">skyline ict</div>
+
+    <div class="three">skyline ict</div>
+    
+
+</h1><br><br><br><br><br>
+
+<h1>
+    <div class="four">skyline ict</div>
+
+    <div class="five">skyline ict</div>
+
+    <div class="six">skyline ict</div>
+</h1>
+
+
+
+</body>
+</html>

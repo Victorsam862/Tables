@@ -1,0 +1,63 @@
+body
+
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+    text-transform: capitalize;
+    background-image: url(./Kate\ Light\ Gray\ Abstract\ Texture\ Backdrop\ for\ Photography.jpeg);
+
+}
+
+.one{
+    background-color: aqua;
+    border: 6px groove black;
+    padding: 1%;
+    
+}
+
+.two{
+    margin: 5% 0%;
+    background-color: brown;
+    padding: 1%;
+    border:solid 6px black
+    
+    
+}
+
+.three{
+    background-color: blue;
+    border:solid 6px black;
+    padding: 1%;
+}
+
+.four{
+    border: dashed 6px black;
+    padding: 1%;
+}
+
+.five{
+    margin:5% 0%;
+    border: double 6px black;
+    padding: 1%;
+
+}
+
+.six{
+    border: dotted 6px black;
+    padding: 1%;
+}
+
+p{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    margin: 0%;
+    text-decoration: underline;
+    color:green;
+    
+}
+
+
